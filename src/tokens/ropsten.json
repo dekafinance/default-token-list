@@ -20,7 +20,7 @@
       "symbol": "tBNB",
       "decimals": 18,
       "chainId": 3,
-      "logoURI": ""
+      "logoURI": "https://raw.githubusercontent.com/dekafinance/default-token-list/master/src/tokens/assets/bnb.png"
     },
     {
       "name": "tBUSD",
@@ -28,7 +28,7 @@
       "symbol": "tBUSD",
       "decimals": 18,
       "chainId": 3,
-      "logoURI": ""
+      "logoURI": "https://raw.githubusercontent.com/dekafinance/default-token-list/master/src/tokens/assets/busd.png"
     },
     {
       "name": "tBSC",
@@ -36,7 +36,7 @@
       "symbol": "tBSC",
       "decimals": 18,
       "chainId": 3,
-      "logoURI": ""
+      "logoURI": "https://raw.githubusercontent.com/dekafinance/default-token-list/master/src/tokens/assets/bscx.png"
     },
     {
       "name": "tETH",
@@ -44,7 +44,7 @@
       "symbol": "tETH",
       "decimals": 18,
       "chainId": 3,
-      "logoURI": ""
+      "logoURI": "https://raw.githubusercontent.com/dekafinance/default-token-list/master/src/tokens/assets/beth.png"
     },
     {
       "name": "tBTC",
@@ -52,7 +52,7 @@
       "symbol": "tBTC",
       "decimals": 18,
       "chainId": 3,
-      "logoURI": ""
+      "logoURI": "https://raw.githubusercontent.com/dekafinance/default-token-list/master/src/tokens/assets/btc.png"
     }
   ]
 }
