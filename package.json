@@ -1,0 +1,21 @@
+{
+  "name": "@dekafinance/default-token-list",
+  "version": "1.0.0",
+  "description": "Deka default token list",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dekafinance/default-token-list.git"
+  },
+  "keywords": [
+    "deka",
+    "dekafinance",
+    "default",
+    "token",
+    "list"
+  ],
+  "license": "MIT License",
+  "bugs": {
+    "url": "https://github.com/dekafinance/default-token-list/issues"
+  },
+  "homepage": "https://github.com/dekafinance/default-token-list#readme"
+}

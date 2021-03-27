@@ -1,0 +1,58 @@
+{
+  "name": "@dekafinance/default-token-list",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "keywords": [
+    "deka",
+    "dekafinance",
+    "default",
+    "token",
+    "list",
+    "ropsten"
+  ],
+  "tokens": [
+    {
+      "name": "tBNB",
+      "address": "0x3106B65776255B23794bCd374d1C7e8083745ffb",
+      "symbol": "tBNB",
+      "decimals": 18,
+      "chainId": 3,
+      "logoURI": ""
+    },
+    {
+      "name": "tBUSD",
+      "address": "0x34e51777198006e10FF39321DA369Cdf5ea03781",
+      "symbol": "tBUSD",
+      "decimals": 18,
+      "chainId": 3,
+      "logoURI": ""
+    },
+    {
+      "name": "tBSC",
+      "address": "0x0eC0B079bA071f6fCF5A3e04356eCFd523d20d1A",
+      "symbol": "tBSC",
+      "decimals": 18,
+      "chainId": 3,
+      "logoURI": ""
+    },
+    {
+      "name": "tETH",
+      "address": "0x92FdC77E3a200c86C26058eFc6b031Bee54f4dBE",
+      "symbol": "tETH",
+      "decimals": 18,
+      "chainId": 3,
+      "logoURI": ""
+    },
+    {
+      "name": "tBTC",
+      "address": "0xB56904c1B5dCb53254111286Dd7325feffeff275",
+      "symbol": "tBTC",
+      "decimals": 18,
+      "chainId": 3,
+      "logoURI": ""
+    }
+  ]
+}
