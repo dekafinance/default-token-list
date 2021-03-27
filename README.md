@@ -3,7 +3,7 @@
     <img src="images/banner.jpeg" alt="deka.finance banner" width="100%">
   </a>
 </p>
-:octocat: Official repository for the deka.finance website.
+:octocat: Official repository for the default token list used in the deka.finance interface.
 
 ## Adding a token
 
