@@ -1,0 +1,75 @@
+{
+    "name": "@dekafinance/default-token-list",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 0
+    },
+    "keywords": [
+      "deka",
+      "dekafinance",
+      "default",
+      "token",
+      "list",
+      "ropsten"
+    ],
+    "tokens": [
+      {
+        "name": "WBNB",
+        "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "symbol": "WBNB",
+        "decimals": 18,
+        "chainId": 3,
+        "logoURI": "https://raw.githubusercontent.com/dekafinance/default-token-list/master/src/tokens/assets/bnb.png"
+      },
+      {
+        "name": "BUSD",
+        "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+        "symbol": "BUSD",
+        "decimals": 18,
+        "chainId": 3,
+        "logoURI": "https://raw.githubusercontent.com/dekafinance/default-token-list/master/src/tokens/assets/busd.png"
+      },
+      {
+        "name": "Ethereum",
+        "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+        "symbol": "BETH",
+        "decimals": 18,
+        "chainId": 3,
+        "logoURI": "https://raw.githubusercontent.com/dekafinance/default-token-list/master/src/tokens/assets/eth.png"
+      },
+      {
+        "name": "BTCB",
+        "address": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
+        "symbol": "BTCB",
+        "decimals": 18,
+        "chainId": 3,
+        "logoURI": "https://raw.githubusercontent.com/dekafinance/default-token-list/master/src/tokens/assets/btc.png"
+      },
+      {
+        "name": "PancakeSwap",
+        "address": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
+        "symbol": "CAKE",
+        "decimals": 18,
+        "chainId": 3,
+        "logoURI": "https://raw.githubusercontent.com/dekafinance/default-token-list/master/src/tokens/assets/cake.png"
+      },
+      {
+        "name": "Bakery",
+        "address": "0xe02df9e3e622debdd69fb838bb799e3f168902c5",
+        "symbol": "BAKE",
+        "decimals": 18,
+        "chainId": 3,
+        "logoURI": "https://raw.githubusercontent.com/dekafinance/default-token-list/master/src/tokens/assets/bake.png"
+      },
+      {
+        "name": "Cream",
+        "address": "0xd4cb328a82bdf5f03eb737f37fa6b370aef3e888",
+        "symbol": "CREAM",
+        "decimals": 18,
+        "chainId": 3,
+        "logoURI": "https://raw.githubusercontent.com/dekafinance/default-token-list/master/src/tokens/assets/cream.png"
+      }
+    ]
+  }
+  

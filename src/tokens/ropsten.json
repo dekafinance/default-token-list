@@ -31,14 +31,6 @@
       "logoURI": "https://raw.githubusercontent.com/dekafinance/default-token-list/master/src/tokens/assets/busd.png"
     },
     {
-      "name": "tBSC",
-      "address": "0x0eC0B079bA071f6fCF5A3e04356eCFd523d20d1A",
-      "symbol": "tBSC",
-      "decimals": 18,
-      "chainId": 3,
-      "logoURI": "https://raw.githubusercontent.com/dekafinance/default-token-list/master/src/tokens/assets/bscx.png"
-    },
-    {
       "name": "tETH",
       "address": "0x92FdC77E3a200c86C26058eFc6b031Bee54f4dBE",
       "symbol": "tETH",
